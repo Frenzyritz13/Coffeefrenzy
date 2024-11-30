@@ -38,13 +38,13 @@ export default function EstatesPage() {
 const estates = [
   {
     name: "Blue Mountain Estate",
-    location: "Blue Mountains, Jamaica",
+    location: "Coorg",
     description: "Our flagship estate situated at 1,500 meters above sea level, featuring rich volcanic soil and perfect climate conditions for premium coffee cultivation.",
     image: "https://images.unsplash.com/photo-1524350876685-274059332603?ixlib=rb-4.0.3&auto=format&fit=crop&w=1771&q=80",
   },
   {
     name: "Valley View Plantation",
-    location: "Kingston Valley, Jamaica",
+    location: "Chikkamagaluru",
     description: "A historic plantation dating back to 1920, known for its traditional processing methods and exceptional bean quality.",
     image: "https://images.unsplash.com/photo-1495107334309-fcf20504a5ab?ixlib=rb-4.0.3&auto=format&fit=crop&w=1770&q=80",
   },

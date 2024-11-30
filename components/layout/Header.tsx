@@ -28,7 +28,7 @@ export function Header() {
             <Link href="/" className="flex items-center space-x-2">
               <Coffee className="h-8 w-8" style={{ color: theme.colors.primary.DEFAULT }} />
               <span className="text-xl font-bold" style={{ color: theme.colors.text.primary }}>
-                Highland Coffee
+                Coffee Frenzy
               </span>
             </Link>
           </div>

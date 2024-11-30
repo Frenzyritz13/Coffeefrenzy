@@ -35,7 +35,7 @@ export default function Home() {
         </div>
         <div className="relative z-10 text-center text-white px-4">
           <h1 className="text-5xl md:text-7xl font-bold mb-6">
-            Highland Coffee Estates
+            Exquisite Coffee Beans from India
           </h1>
           <p className="text-xl md:text-2xl mb-8 max-w-2xl mx-auto">
             Cultivating Excellence in Every Bean
@@ -75,7 +75,7 @@ export default function Home() {
               </p>
               <div className="flex items-center gap-2 text-[#8B4513]">
                 <MapPin className="h-5 w-5" />
-                <span>Blue Mountains, Jamaica</span>
+                <span>Coorg</span>
               </div>
             </div>
           </div>

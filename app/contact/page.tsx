@@ -88,15 +88,15 @@ export default function ContactPage() {
               <div className="space-y-4">
                 <div className="flex items-center gap-3 text-gray-700">
                   <MapPin className="h-5 w-5 text-[#8B4513]" />
-                  <span>Blue Mountains, Jamaica</span>
+                  <span>Bengaluru, India</span>
                 </div>
                 <div className="flex items-center gap-3 text-gray-700">
                   <Phone className="h-5 w-5 text-[#8B4513]" />
-                  <span>+1 (876) 555-0123</span>
+                  <span>+91 8446025694</span>
                 </div>
                 <div className="flex items-center gap-3 text-gray-700">
                   <Mail className="h-5 w-5 text-[#8B4513]" />
-                  <span>contact@highlandcoffee.com</span>
+                  <span>ritvi@frenzy.works</span>
                 </div>
               </div>
             </Card>
